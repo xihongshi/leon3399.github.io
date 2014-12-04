@@ -1,7 +1,9 @@
 source 'https://rubygems.org'
 
 gem 'jekyll'
+gem 'kramdown'
 gem 'coderay'
-gem 'sass', '3.4.5'
-gem 'octopress', '~> 3.0.0.rc.12'
-gem 'jekyll-sitemap'
+gem 'rake'
+gem 'thor'
+gem 'activesupport'
+gem 'stringex'
